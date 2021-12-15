@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+
+#BTN{
+    color:black;
+    text-decoration: none;
+}
+*{
+    text-align:center;
+    font-family: 'Ubuntu', sans-serif;
+    background-repeat: no-repeat;
+    
+}
